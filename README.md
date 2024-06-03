@@ -1,7 +1,7 @@
 # Retail Project
 
 ## Objective
-
+Practice creating a pipeline to store raw data files to the cloud and then extract the necessary data to save into a relational data table according to the start schema model, and finally build reporting charts. Through this project, you can get acquainted and understand more about a pipeline and tools such as astro, airflow, soda, dbt, GCP.
 
 ## Prerequisites
 - Docker
