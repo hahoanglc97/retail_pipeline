@@ -1,4 +1,4 @@
-FROM quay.io/astronomer/astro-runtime:11.0.0
+FROM quay.io/astronomer/astro-runtime:11.3.0
 
 RUN python -m venv soda_venv && source soda_venv/bin/activate && \
     pip install --no-cache-dir soda-core-bigquery==3.3.1 &&\
